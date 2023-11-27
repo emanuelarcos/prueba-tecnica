@@ -7,7 +7,7 @@ Este proyecto busca probar tus habilidades en el manejo de interacciones con el 
 Usa el archivo `books.json` para obtener los datos de los libros. Podés añadir más libros si lo deseas, siempre y cuando siga la misma estructura.
 
 [Ver el archivo JSON](./books.json)
-[Ver el diseño](./prueba-técnica.png)
+[Ver el diseño](./prueba-tecnica.png)
 
 ## Requisitos
 Basado en el diseño proporcionado, la aplicación debe tener las siguientes características:
